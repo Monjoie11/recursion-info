@@ -9,6 +9,6 @@ public class PalindromesTest {
   @Test
   public void isPalindrome() {
 
-    assertTrue(isPalindrome();
+    assertTrue(Palindromes.isPalindrome("the bat smokes rocks and cocks"));
   }
 }
